@@ -16,6 +16,7 @@ cp .env.example .env
 ```
 
 Run
+
 ```bash
 node src/consumer.js
 node src/producer.js
@@ -23,5 +24,5 @@ node src/producer.js
 
 Resources:
 
-[Upstash](https://upstash.com)
-[Apache Kafka, CMAK Docker config](https://github.com/mdobydullah/kafka-cmak-docker)
+- [Upstash](https://upstash.com)
+- [Apache Kafka, CMAK Docker config](https://github.com/mdobydullah/kafka-cmak-docker)
